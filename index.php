@@ -6,7 +6,6 @@
     <img src="FdHvcfUXkAAMJk5.png" /><br>
     <form action="generator.php" method="post" enctype="multipart/form-data">
     Kur Valentins stāv: <input type="file" name="backgroundFile" id="backgroundFile"><br>
-    Ar ko darbojas Valentin: <input type="text" name="valentinsDara" id="valentinsDara"><br>
     <input type="submit" value="Uzģenerēt" name="submit"><br>
     </form>
 </body>
