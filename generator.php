@@ -50,5 +50,5 @@
     // Print Text On Image
     imagettftext($backgroundImg, 10, 0, 70, 479, $black, $font_path, $text);
     //save as png
-    imagepng($backgroundImg);
+    imagepng($backgroundImg, "valentins.png", 0);
 ?>
